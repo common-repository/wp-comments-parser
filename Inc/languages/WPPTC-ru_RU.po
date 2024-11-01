@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-12-14 12:56+0000\n"
+"PO-Revision-Date: 2017-12-14 16:34+0200\n"
+"Language-Team: Russian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language: ru_RU\n"
+
+#. Name of the plugin
+msgid "WP Parser Comments"
+msgstr ""
+
+#. Description of the plugin
+msgid "Wordpress Plugin for parsing tripadvisor comments"
+msgstr "Плагин Wordpress для разбора комментариев Tripadvisor"
+
+#. Author of the plugin
+#. Author URI of the plugin
+msgid "hireukraine.me"
+msgstr ""
+
+#: inc/Init/WPPTCInitializer.php:49
+msgid "ParserComments"
+msgstr "КомментГраббер"
+
+msgid "Parser options"
+msgstr "Параметры Грабера"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Site URL"
+msgstr "Адрес сайта"
+
+msgid "Parser Tripadvisor Comments"
+msgstr ""
+
+msgid "Display comments from tripadvisor"
+msgstr "Показать комментарии от tripadvisor"
+
+msgid "Such a comments does not exist! Check comments ID"
+msgstr "Таких комментариев не существует! Проверить идентификатор комментариев"
+
+msgid "Copy this short code paste into the editor field - "
+msgstr "Скопируйте этот короткий код в поле редактора - "
+
+msgid "Please wait while comments are uploaded"
+msgstr "Подождите, пока будут загружены комментарии"
+
+msgid "These comments were received from the site - "
+msgstr "Эти комментарии были получены с сайта - "
+
+msgid "Parser comments with tripadvisor"
+msgstr "Граббер комментариев с tripadvisor"
+
+msgid "Receive comments"
+msgstr "Получать комментарии"
+
+msgid "Show all comments"
+msgstr "Показать все комментарии"

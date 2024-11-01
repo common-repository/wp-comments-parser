@@ -1,0 +1,20 @@
+.checked {
+    color: orange;
+}
+
+.fa-star {
+    position: relative;
+    font-size: 20px
+}
+
+.checked-half::after {
+    content: "\f089\00a0";
+    font-family: FontAwesome;
+    position: absolute;
+    color: orange;
+    left: 0;
+}
+
+.hide {
+    display: none;
+}
